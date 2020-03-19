@@ -1,7 +1,5 @@
 package br.com.alura.listavip;
 
-import java.util.Properties;
-
 import javax.sql.DataSource;
 
 import org.springframework.boot.SpringApplication;
